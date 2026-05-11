@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific
+data/
+*.wav
+*.mp3
+*.flac
+*.tflite
+audio-threat-env/
+.env
+*.csv
