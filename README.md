@@ -1,5 +1,3 @@
-# audio-threat-detection
-
 # Real-Time Audio Threat Detection
 
 > Edge AI system that detects threatening sounds (glass breaking, alarms, gunshots)
